@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @zayemdevelopermaster
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding 👨‍💻
 - 🌱 I’m currently learning Coding
 - ⚡ Fun fact: I'm very funny 😁
+- relagion: My relagon is ISLAM ☪
 
 <!---
 zayemdevelopermaster/zayemdevelopermaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
